@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/nandhika sari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nandhika sari" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nand k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nand k" height="30" width="40" /></a>
+<a href="https://web.facebook.com/profile.php?id=100007460942367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nandhika sari" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCH0eFaLY0Nr2hAJGsBQ9kHw/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nand k" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
