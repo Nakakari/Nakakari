@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Website Development, Game Development, IoT**
 
-- 💬 Ask me about **CodeIgniter, Laravel, Arduino**
+- 💬 Ask me about **PHP, HTML, CodeIgniter, Laravel, Arduino**
 
 - 📫 How to reach me **nandhika.sari_123@student.uns.ac.id**
 
