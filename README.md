@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nandhika Kurniasari</h1>
 <h3 align="center">Trying to be a good programmer. Wish me luck!</h3>
 
-- 🔭 I’m currently working on **Univeritas Sebelas Maret**
+- 🔭 I’m currently studying on **Univeritas Sebelas Maret**
 
 - 🌱 I’m currently learning **Website Development, Game Development, IoT**
 
