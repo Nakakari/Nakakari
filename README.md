@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **PHP, HTML, CodeIgniter, Laravel, Arduino**
 
-- 📫 How to reach me **nandhika.sari_123@student.uns.ac.id**
+- 📫 How to reach me **https://nakakari.github.io/**
 
 - ⚡ Fun fact **Really like jokes 😂**
 
