@@ -6,6 +6,7 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+</style>
 <!-- - 👩🏻‍💻 **PHP, JavaScript, JQuery Ajax, Laravel** enthusiast
 
 - 🐱‍👓 A full-time learner 
